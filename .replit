@@ -1,2 +1,2 @@
-run="npm run dev"
+run="npm run build"
 entrypoint="src/App.jsx"
