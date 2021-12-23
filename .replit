@@ -1,3 +1,2 @@
-run= "npm install react-scripts --save"
 run="npm run build"
 entrypoint="src/App.jsx"
