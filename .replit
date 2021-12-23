@@ -1,3 +1,2 @@
-run="npm install"
 run="npm run build"
 entrypoint="src/App.jsx"
